@@ -56,9 +56,9 @@
             this.label1.ForeColor = System.Drawing.Color.DimGray;
             this.label1.Location = new System.Drawing.Point(528, 46);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(67, 13);
+            this.label1.Size = new System.Drawing.Size(45, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "USUARIO:";
+            this.label1.Text = "USER:";
             // 
             // txtUsuario
             // 
@@ -97,9 +97,9 @@
             this.label2.ForeColor = System.Drawing.Color.DimGray;
             this.label2.Location = new System.Drawing.Point(528, 101);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(95, 13);
+            this.label2.Size = new System.Drawing.Size(82, 13);
             this.label2.TabIndex = 4;
-            this.label2.Text = "CONTRASEÑA:";
+            this.label2.Text = "PASSWORD:";
             // 
             // btnCancelar
             // 

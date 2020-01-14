@@ -11,7 +11,7 @@ using Capa_Controlador;
 using Capa_Entidad;
 
 namespace Capa_Vista
-{
+{   //Mi segundo commit
     public partial class frmAcceso : Form
     {
         int contador;
