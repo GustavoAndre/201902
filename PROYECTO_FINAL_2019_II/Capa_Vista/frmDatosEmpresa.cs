@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace Capa_Vista
 {
     public partial class frmDatosEmpresa : Form
-    {
+    {//Mi tercer commit
         public frmDatosEmpresa()
         {
             InitializeComponent();
