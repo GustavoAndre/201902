@@ -1,0 +1,956 @@
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+C:\Users\Gustavo André\Downloads\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProduscto.frmOperacionesProducto.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+D:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProduscto.frmOperacionesProducto.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+E:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+F:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+G:\CANCIONES DE ALABANZA AL SEÑOR\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaProdxCate.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaProdxCate.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+C:\Users\Gustavo André\source\repos\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoDocumento.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUnidadMedida.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaProdxCate.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoDocumento.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoExistencia.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUnidadMedida.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaDespachos.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaProdxCate.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaDespachos.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoDocumento.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoExistencia.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUnidadMedida.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaDespachos.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoExistencia.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientaNavegador.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleado01.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoxArea.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleado01.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoxArea.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaProdxCate.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientaNavegador.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaDespachos.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoDocumento.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoExistencia.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUnidadMedida.resources
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleado01.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoxArea.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientaNavegador.resources
+G:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxArea.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleado01.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoxArea.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientaNavegador.resources
+F:\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxArea.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxArea.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmInformacionSistema.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxCargo.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportexMes.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteProductoGeneral.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCalendario.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAlmacen.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudAlmacen.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteDespachoProductoxMes.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportePedidoProductoxMes.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmImprimirPedido_Despacho.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUsuario.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteProductosxAlmacen.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmImprimirPedido_Despacho.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAlmacen.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCalendario.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleado01.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoxArea.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaProdxCate.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudAlmacen.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientaNavegador.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmInformacionSistema.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaDespachos.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportePedidoProductoxMes.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteProductosxAlmacen.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteDespachoProductoxMes.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteProductoGeneral.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxCargo.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxArea.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoDocumento.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoExistencia.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUnidadMedida.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportexMes.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUsuario.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+F:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmImprimirPedido_Despacho.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAlmacen.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCalendario.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleado01.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoxArea.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaProdxCate.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudAlmacen.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientaNavegador.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmInformacionSistema.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaDespachos.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportePedidoProductoxMes.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteProductosxAlmacen.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteDespachoProductoxMes.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteProductoGeneral.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxCargo.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxArea.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoDocumento.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoExistencia.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUnidadMedida.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportexMes.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUsuario.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+E:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmImprimirPedido_Despacho.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAlmacen.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCalendario.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleado01.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoxArea.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaProdxCate.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudAlmacen.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientaNavegador.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmInformacionSistema.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaDespachos.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportePedidoProductoxMes.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteProductosxAlmacen.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteDespachoProductoxMes.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteProductoGeneral.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxCargo.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxArea.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoDocumento.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoExistencia.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUnidadMedida.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportexMes.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUsuario.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
+G:\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoOperacion.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.exe
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Vista.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\FlashControlV71.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\stdole.dll
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Entidad.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Biblioteca_Procesos_FrmOperaciones_2019II.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\bin\Debug\Capa_Modelo.dll.config
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAcceso.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoOperacion.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmImprimirPedido_Despacho.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAlmacen.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCalendario.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleado01.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoxArea.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaProdxCate.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudAlmacen.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientaNavegador.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmInformacionSistema.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCategoria.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudProveedor.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDatosEmpresa.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmArea.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaDetallePedido.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultaEmpleadoPedidos.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudArea.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudCargo.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudDistrito.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCrudEmpleado.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCargo.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmDistrito.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmEmpleado.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmCategoria.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmAgregarProducto.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmConsultas.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmHerramientas.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMantenimiento.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmMenu.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProducto.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmProveedor.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperacion.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaciones.frmOperaPedidos.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmOperaDespachos.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportePedidoProductoxMes.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteProductosxAlmacen.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteDespachoProductoxMes.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteProductoGeneral.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxCargo.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleadoxArea.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReporteEmpleado.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportes.frmReportes.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoDocumento.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmTipoExistencia.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUnidadMedida.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmReportexMes.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmUsuario.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.frmSplash.resources
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.exe
+C:\Users\Gustavo André\Desktop\PROYECTO_FINAL\PROYECTO_FINAL_2019_II\Capa_Vista\obj\Debug\Capa_Vista.pdb
